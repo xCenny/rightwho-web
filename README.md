@@ -10,10 +10,6 @@ RightWho, yapay zeka destekli benzersiz bir tartışma platformudur. İki taraf�
 - **Kapsamlı Tartışma Kategorileri:** Teknoloji, oyun, spor, siyaset ve daha birçok konuda tartışmalara katılabilirsiniz.
 - **Topluluk Etkileşimi:** Farklı bakış açılarını okuyabilir, yorum yapabilir ve kendi tartışmalarınızı başlatarak toplulukla etkileşime geçebilirsiniz.
 
-## Proje Adı
-
-"rightwho-web" ismi, platformun web tabanlı arayüzünü ve işlevselliğini vurgulamak amacıyla seçilmiştir. "RightWho" ismi, kimin haklı olduğunu belirlemeye odaklanan platformun amacını yansıtmaktadır.
-
 ## Daha Fazla Bilgi
 
 Daha fazla bilgi ve tartışmalara katılmak için [RightWho.com](https://www.rightwho.com/) adresini ziyaret edebilirsiniz.
