@@ -4,7 +4,7 @@ RightWho, yapay zeka destekli benzersiz bir tartışma platformudur. İki taraf�
 
 ## Özellikler
 
-- **Halk Seçimi:** Kullanıcılar, tartışmalar sırasında anlık oylamalarla taraf seçebilir ve destek oranlarını görebilirler.
+- **Halk Seçimi:** Kullanıcılar, tartışmalar sırasında anlık oylamalarla taraf seçebilir kendi yorumunu yapabilir ve destek oranlarını görebilirler.
 - **Yapay Zeka Analizi:** Platform, tartışmaları analiz eder ve objektif sonuçlar sunar.
 - **Güvenli Ortam:** Uygunsuz içerikler anında tespit edilip engellenir, böylece kullanıcılar için güvenli bir tartışma ortamı sağlanır.
 - **Kapsamlı Tartışma Kategorileri:** Teknoloji, oyun, spor, siyaset ve daha birçok konuda tartışmalara katılabilirsiniz.
